@@ -1,3 +1,4 @@
+# 道なかばで挫折したわず
 from selenium import webdriver
 from time import sleep
 
